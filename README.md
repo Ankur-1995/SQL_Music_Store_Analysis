@@ -6,3 +6,4 @@ Database and Tools
 Postgre SQL
 PgAdmin4
 Schema- Music Store Database
+<img width="594" alt="schema_diagram" src="https://user-images.githubusercontent.com/132827364/236681958-636483aa-ee5d-4c4a-a8f9-918b3848bb04.png">
